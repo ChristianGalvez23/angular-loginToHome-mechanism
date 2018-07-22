@@ -25,13 +25,14 @@
             "styles": [
               "./node_modules/bootstrap/dist/css/bootstrap.min.css",
               "./node_modules/magnific-popup/dist/magnific-popup.css",
-              "./src/theme/freelancer.scss"
+              "./src/theme/scss/freelancer.scss"
             ],
             "scripts": [
               "./node_modules/jquery/dist/jquery.min.js",
               "./node_modules/bootstrap/dist/js/bootstrap.bundle.min.js",
               "./node_modules/jquery.easing/jquery.easing.min.js",
-              "./node_modules/magnific-popup/dist/jquery.magnific-popup.min.js"
+              "./node_modules/magnific-popup/dist/jquery.magnific-popup.min.js",
+              "./src/theme/js/freelancer.min.js"
             ]
           },
           "configurations": {
