@@ -1,4 +1,5 @@
-# From HTML/CSS/JS files to Angular 6 Structure!
+# Login and Home Pages
 
 [Here the Bootstrap Theme](https://startbootstrap.com/template-overviews/freelancer/)
-That is the template that I chose for test purposes. Many people don't have knowledge how to do this process when a client have just html files.
+[Here the Login Theme](https://colorlib.com/wp/template/creative-login-form/)
+Here I am demonstrating how to implement a login and then redirect to home page so that you got a completely different theme rendered.
